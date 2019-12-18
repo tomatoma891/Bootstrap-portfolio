@@ -1,13 +1,20 @@
-
+/* 
 body {
     height: 100%;
-  }
-  #sticky-footer {
+  } */
+  /* #sticky-footer {
     flex-shrink: none;
     width: 100%;
     background-color: darkcyan;
-  }
-.container {
+  } */
+/* .container {
     flex: 1 0 auto;
 
-}
+} */
+#container{
+  min-height: 100%;
+/* }
+#card {
+  height: 100%;
+  width: 200px;
+} */
